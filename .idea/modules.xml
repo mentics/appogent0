@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FPJ/FPJ.iml" filepath="$PROJECT_DIR$/FPJ/FPJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFXUtil/JavaFXUtil.iml" filepath="$PROJECT_DIR$/JavaFXUtil/JavaFXUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Util/Util.iml" filepath="$PROJECT_DIR$/Util/Util.iml" />
     </modules>
   </component>
 </project>
